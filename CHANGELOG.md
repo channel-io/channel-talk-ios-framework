@@ -1,13 +1,13 @@
-# 8.0.3
+# 8.0.3 (2020-11-03)
 ## Bug fixes
 * Fixed to change navigation bar properly(Sometimes it has been changed according to the navigation color settings of the host)
 * Fixed image orientation issue
 
-# 8.0.2
+# 8.0.2 (2020-10-22)
 ## Bug fixes
 * Block duplicated open chat when call openChat function with same id
 
-# 8.0.1
+# 8.0.1 (2020-10-21)
 ## Bug fixes
 * Fixed cell contentView bug with ios 14
 * Fixed not called onUrlClicked when link button clicked
@@ -17,7 +17,7 @@
 ## Improvement
 * Add more boot fail status
 
-# 8.0.0
+# 8.0.0 (2020-10-07)
 * We are applied the new SDK distribution method. Please check this new [installation](https://developers.channel.io/docs/ios-installation) and [migration](https://developers.channel.io/docs/ios-migration) guide.
 * channel-plugin-ios (up to v7.2.6) is now a legacy repo and will be deleted in a year.
 ## Improvement
@@ -26,6 +26,12 @@
 * Supported Cocoapod in fat-framework and xcframework methods respectively (module name: ChannelIOSDK, schema: ChannelIO)
 * Supported Carthage (available in binary format)
 * Supproted Swift Package Manager Supports with the swift 5.3
+
+## Feature 
+* BM reorganization applied (white label and plan change, etc.)
+* Applied plug-in term unification and function generalization (you can use sdk more freely)
+* Supproted to connect specific support bot on Marketing, one-time message
+
 
 ## Feature 
 * BM reorganization applied (white label and plan change, etc.)
