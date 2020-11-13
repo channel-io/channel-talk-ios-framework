@@ -1,3 +1,7 @@
+# 8.0.4 (2020-11-13)
+## Bug fixes
+* Fixed KVO crash issue on IOS 10
+
 # 8.0.3 (2020-11-03)
 ## Bug fixes
 * Fixed to change navigation bar properly(Sometimes it has been changed according to the navigation color settings of the host)
