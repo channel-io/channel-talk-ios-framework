@@ -1,3 +1,8 @@
+# 8.0.4 (2020-11-20)
+## Bug fixes
+* Fixed minimum version check logic
+* Add finding Bundle fail logic(RN issue)
+
 # 8.0.4 (2020-11-13)
 ## Bug fixes
 * Fixed KVO crash issue on IOS 10
