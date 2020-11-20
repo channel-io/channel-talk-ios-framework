@@ -1,4 +1,8 @@
-# 8.0.4 (2020-11-20)
+# 8.0.6 (2020-11-20)
+## Bug fixes
+* Fixed additional check logic
+
+# 8.0.5 (2020-11-20)
 ## Bug fixes
 * Fixed minimum version check logic
 * Add finding Bundle fail logic(RN issue)
