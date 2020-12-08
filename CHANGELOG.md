@@ -1,3 +1,17 @@
+# 8.1.0 (2020-12-08)
+## Feature
+* Add private file feature
+
+## Improvement
+* Fixed date style on ios 14
+
+## Bug fixes
+* Fixed profile bot input error crash bug
+
+# 8.0.6 (2020-11-20)
+## Bug fixes
+* Fixed additional check logic
+
 # 8.0.6 (2020-11-20)
 ## Bug fixes
 * Fixed additional check logic
@@ -39,12 +53,6 @@
 * Supported Cocoapod in fat-framework and xcframework methods respectively (module name: ChannelIOSDK, schema: ChannelIO)
 * Supported Carthage (available in binary format)
 * Supproted Swift Package Manager Supports with the swift 5.3
-
-## Feature 
-* BM reorganization applied (white label and plan change, etc.)
-* Applied plug-in term unification and function generalization (you can use sdk more freely)
-* Supproted to connect specific support bot on Marketing, one-time message
-
 
 ## Feature 
 * BM reorganization applied (white label and plan change, etc.)
