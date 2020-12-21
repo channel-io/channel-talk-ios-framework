@@ -1,3 +1,7 @@
+# 8.1.1 (2020-12-21)
+## Bug fixeds
+* Add Socket stream carsh defense code
+
 # 8.1.0 (2020-12-08)
 ## Feature
 * Add private file feature
