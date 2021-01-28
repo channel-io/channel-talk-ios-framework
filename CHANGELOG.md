@@ -1,3 +1,7 @@
+# 8.1.2 (2021-01-28)
+## Bug fixeds
+* Add UpdateParamBuilder public init function
+
 # 8.1.1 (2020-12-21)
 ## Bug fixeds
 * Add Socket stream carsh defense code
