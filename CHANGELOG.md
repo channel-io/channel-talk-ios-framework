@@ -1,3 +1,8 @@
+# 8.2.0 (2021-02-01)
+## Bug fixeds
+* Add typealias to support host's classes which have same name
+* Fixed some ANTLR Parser bug
+
 # 8.1.2 (2021-01-28)
 ## Bug fixeds
 * Add UpdateParamBuilder public init function
