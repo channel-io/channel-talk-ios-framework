@@ -1,3 +1,7 @@
+# 8.2.1 (2021-02-04)
+## Bug fixeds
+* Fixed hide, show flag bug
+
 # 8.2.0 (2021-02-01)
 ## Bug fixeds
 * Add typealias to support host's classes which have same name
