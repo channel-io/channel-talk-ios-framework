@@ -1,3 +1,7 @@
+# 8.2.2 (2021-02-04)
+## Bug fixeds
+* Add guard code for OS bug where connected window could not be found
+
 # 8.2.1 (2021-02-04)
 ## Bug fixeds
 * Fixed hide, show flag bug
@@ -8,7 +12,7 @@
 * Fixed some ANTLR Parser bug
 
 # 8.1.2 (2021-01-28)
-## Bug fixeds
+## Bug fixed
 * Add UpdateParamBuilder public init function
 
 # 8.1.1 (2020-12-21)
