@@ -1,3 +1,7 @@
+# 8.2.3 (2021-02-24)
+## Bug fixeds
+* Fixed memory leack bug
+
 # 8.2.2 (2021-02-04)
 ## Bug fixeds
 * Add guard code for OS bug where connected window could not be found
