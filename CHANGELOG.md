@@ -1,3 +1,14 @@
+# 8.3.1 (2021-03-26)
+## Bug
+* Fixed some instagram feature bug
+
+# 8.3.0 (2021-03-26)
+## Feature
+* Add Instagram linking
+
+## Bug fixeds
+* Fixed some layout bug
+
 # 8.2.3 (2021-02-24)
 ## Bug fixeds
 * Fixed memory leack bug
