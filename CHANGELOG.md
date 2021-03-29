@@ -1,3 +1,7 @@
+# 8.3.2 (2021-03-29)
+## Bug
+* Fixed some instagram minor bug
+
 # 8.3.1 (2021-03-26)
 ## Bug
 * Fixed some instagram feature bug
