@@ -1,3 +1,7 @@
+# 8.4.0 (2021-04-09)
+## Feature
+* Add 'Page' concept('url' is deprecated)
+
 # 8.3.2 (2021-03-29)
 ## Bug
 * Fixed some instagram minor bug
