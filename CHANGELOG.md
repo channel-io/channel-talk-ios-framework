@@ -1,3 +1,7 @@
+# 8.4.1 (2021-04-15)
+## Bug
+* Keep 'Page' when calling shutdown function
+
 # 8.4.0 (2021-04-09)
 ## Feature
 * Add 'Page' concept('url' is deprecated)
