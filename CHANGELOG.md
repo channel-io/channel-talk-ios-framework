@@ -1,3 +1,7 @@
+# 8.4.2 (2021-04-21)
+## Improvement
+* Make Build framework without 'Exclude Architecture = arm64' option
+
 # 8.4.1 (2021-04-15)
 ## Bug
 * Keep 'Page' when calling shutdown function
