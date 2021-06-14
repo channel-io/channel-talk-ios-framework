@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "ChannelIO",
             url: "https://mobile-static.channel.io/ios/8.4.2/spm-xcframework.zip",
-            checksum: "378a1773d321128f6ccada4fb6d09192d867d039015867209f28968cf136f8f9"
+            checksum: "6f7b25590266ca6b5a3522e55bd21f5900d05db45254b51bd19933759f1e141b"
         )
     ]
 )
