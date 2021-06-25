@@ -1,3 +1,11 @@
+# 9.0.0 (2021-06-26)
+## Improvement
+* Improved Lounge UI/UX
+* Applied new message Input logic
+* Removed 'Show Closed Chat' option
+* Changed 'Remove Chat' user action to 'Leave Chat' user action
+* Changed some behavior of '[OpenChat](https://developers.channel.io/docs/mobile-channel-io#openchat)' API function
+
 # 8.4.2 (2021-04-21)
 ## Improvement
 * Make Build framework without 'Exclude Architecture = arm64' option
