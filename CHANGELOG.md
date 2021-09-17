@@ -1,3 +1,11 @@
+# 9.1.0 (2021-09-17)
+## Feature
+* Fixed import schema from "ChannelIO" to "ChannelIOFront". Please check [migration](https://developers.channel.io/docs/ios-migration) guide.
+
+## Bug
+* Fixed message cutting on iOS 15 Rc version.
+
+
 # 9.0.0 (2021-06-26)
 ## Improvement
 * Improved Lounge UI/UX

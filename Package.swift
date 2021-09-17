@@ -9,13 +9,13 @@ let package = Package(
     products: [
         .library(
             name: "ChannelIOSDK",
-            targets: ["ChannelIO"]),
+            targets: ["ChannelIOFront"]),
     ],
     targets: [
         .binaryTarget(
-            name: "ChannelIO",
-            url: "https://mobile-static.channel.io/ios/9.0.1/spm-xcframework.zip",
-            checksum: "c720cf22fec953e52fc0778cabff9f1bbe495831ca62af148e847b88e4b144cd"
+            name: "ChannelIOFront",
+            url: "https://mobile-static.channel.io/ios/9.1.0/spm-xcframework.zip",
+            checksum: "fabd4f9f4f258c1d13c8a3fa3e1440d29ccfae39092edeb6025671946265b9ff"
         )
     ],
     swiftLanguageVersions: [.v5]
