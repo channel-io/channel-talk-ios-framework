@@ -1,7 +1,10 @@
+# 9.1.2 (2021-09-24)
+## Bug
+* Fixed not available version issue with iOS 15 production inpo.plist bug.
+
 # 9.1.1 (2021-09-24)
 ## Bug
 * Fixed lounge chat hitroy cutting on iOS 15 Rc version.
-
 
 # 9.1.0 (2021-09-17)
 ## Feature
@@ -10,6 +13,12 @@
 ## Bug
 * Fixed message cutting on iOS 15 Rc version.
 
+# 9.0.1 (2021-06-30)
+## Bug
+* Removed left operation time timezone double converting logic
+
+## Improvement
+* Add left days localized string on operation time
 
 # 9.0.0 (2021-06-26)
 ## Improvement
