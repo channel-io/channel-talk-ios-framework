@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChannelIOFront",
-            url: "https://cf.exp.channel.io/file/72/6151836d851c3d02a9f2/channeliofront-xcframework.zip",
-            checksum: "f7d02dd8d05424ebab7268482d10ac5d8746ddff910e25bd380bdb055b328c08"
+            url: "https://cf.exp.channel.io/file/72/61519206946297dc49f7/channeliofront-xcframework.zip",
+            checksum: "cbb09f67662e9271aa70d3177f8936ae5173f9a0441238d963f8c893cf1f3bae"
         )
     ],
     swiftLanguageVersions: [.v5]
