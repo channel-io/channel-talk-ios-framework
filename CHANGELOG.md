@@ -1,3 +1,7 @@
+# 9.1.3 (2021-12-07)
+## Bug
+* Fixed a bug where the window size did not match when the status bar was hidden.
+
 # 9.1.2 (2021-09-24)
 ## Bug
 * Fixed not available version issue with iOS 15 production inpo.plist bug.
