@@ -1,3 +1,11 @@
+# 9.1.5 (2021-12-14)
+## Improvement
+* Fixed watermark loclaized string issue.
+
+# 9.1.4 (2021-12-14)
+## Improvement
+* Support Xcode 13.2
+
 # 9.1.3 (2021-12-07)
 ## Bug
 * Fixed a bug where the window size did not match when the status bar was hidden.
@@ -8,7 +16,7 @@
 
 # 9.1.1 (2021-09-24)
 ## Bug
-* Fixed lounge chat hitroy cutting on iOS 15 Rc version.
+* Fixed lounge chat history cutting on iOS 15 Rc version.
 
 # 9.1.0 (2021-09-17)
 ## Feature
