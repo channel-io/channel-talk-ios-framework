@@ -1,3 +1,15 @@
+# 10.0.0 (2022-04-15)
+## Feature
+* Follow up feature added
+## Improvement
+### UI / UX
+* The design is changed to be more beautiful.
+* Popup position can be changed
+### Functions
+* Support bot enhanced
+### Delegate Changed
+* onProfileChanged -> onFollowChanged
+
 # 9.1.5 (2021-12-14)
 ## Improvement
 * Fixed watermark loclaized string issue.
