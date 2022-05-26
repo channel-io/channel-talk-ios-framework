@@ -1,3 +1,8 @@
+# 10.0.2 (2022-04-15)
+## Feature
+* Add backdrop blur on InappPopup
+## Bug
+* Removed default value on unsubscribeEamil, unsubscribeText
 # 10.0.0 (2022-04-15)
 ## Feature
 * Follow up feature added
