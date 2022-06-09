@@ -1,8 +1,23 @@
+# 10.0.5 (2022-06-09)
+## Feature
+* Supported youtube shorts on inapp push, chat stream
+## Bug
+* Fixed a bug where files with Korean names could not be opened sometimes 
+
+# 10.0.4 (2022-05-31)
+## Bug
+* Fixed Datetime request format
+
+# 10.0.3 (2022-05-30)
+## Bug
+* Fixed Datetime request format
+
 # 10.0.2 (2022-04-15)
 ## Feature
 * Add backdrop blur on InappPopup
 ## Bug
 * Removed default value on unsubscribeEamil, unsubscribeText
+
 # 10.0.0 (2022-04-15)
 ## Feature
 * Follow up feature added
