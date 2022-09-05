@@ -1,3 +1,12 @@
+# 10.0.6 (2022-09-05)
+## Improvement
+* Improved some error types.
+* Add quick summary and quick help on public function.
+## Bug
+* Fixed an issue that caused a crash when rotating the screen. 
+* Fixed a bug where the blank area appeared large when supportbot button was pressed.
+* Fixed some lockalized strings.
+
 # 10.0.5 (2022-06-09)
 ## Feature
 * Supported youtube shorts on inapp push, chat stream
