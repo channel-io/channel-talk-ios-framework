@@ -1,4 +1,4 @@
-# 10.0.7 (2022-09-05)
+# 10.0.7 (2022-09-29)
 ## Improvement
 * Removed unnessary photo picker permsssions.
 ## Bug
