@@ -1,3 +1,9 @@
+# 10.0.7 (2022-09-05)
+## Improvement
+* Removed unnessary photo picker permsssions.
+## Bug
+* Fixed some message layout bug
+
 # 10.0.6 (2022-09-05)
 ## Improvement
 * Improved some error types.
