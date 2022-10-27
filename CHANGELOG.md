@@ -1,3 +1,7 @@
+# 10.1.0 (2022-09-29)
+## Feature
+* Add Darkmode Theme
+
 # 10.0.7 (2022-09-29)
 ## Improvement
 * Removed unnessary photo picker permsssions.

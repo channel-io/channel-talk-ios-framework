@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChannelIOFront",
-            url: "https://mobile-static.channel.io/ios/10.0.7/spm-xcframework.zip",
-            checksum: "c65d714356f6fba27bbe75095ba4cd697b4a610cc90dea1f66830a458b4f4ac8"
+            url: "https://mobile-static.channel.io/ios/10.1.0/spm-xcframework.zip",
+            checksum: "d17c282ce05c89fbbad214482e7244db0546b8f9ae6444e88800d34e0492f762"
         )
     ],
     swiftLanguageVersions: [.v5]
