@@ -1,3 +1,7 @@
+# 10.1.1 (2022-11-03)
+## Fix
+* Fixed bubble y margin crash issue
+
 # 10.1.0 (2022-10-27)
 ## Feature
 * Add Darkmode Theme
