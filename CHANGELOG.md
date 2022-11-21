@@ -1,3 +1,7 @@
+# 10.1.2 (2022-11-21)
+## Fix
+* Fixed url encoding bug
+
 # 10.1.1 (2022-11-03)
 ## Fix
 * Fixed bubble y margin crash issue
