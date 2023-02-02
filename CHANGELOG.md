@@ -1,3 +1,13 @@
+# 10.2.2 (2023-02-02)
+## Feature
+* Improved in-app push notification behaviors and sounds
+## Improvement
+* Support Drag & Drop file uploading
+* Improved version views
+## Fix
+* Fixed some statusbar appearance issues
+* Fixed the video player button color
+
 # 10.1.2 (2022-11-21)
 ## Fix
 * Fixed url encoding bug
