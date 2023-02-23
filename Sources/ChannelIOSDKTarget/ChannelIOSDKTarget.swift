@@ -7,4 +7,4 @@
 
 import Foundation
 
-class ChannelIOSDKTarget {}
+class ChannelIOSDKTarget { }
