@@ -1,3 +1,14 @@
+# 10.3.0 (2023-04-07)
+## Feature
+* Fixed function name from `applyAppearance` to `seAppearance`
+* Applied the device language on setting Accept-Language when user boot first
+## Improvement
+* Fixed localized strings for form submiting
+* Add image supporting formats
+## Fix
+* Fixed the black link button on dark mode
+
+
 # 10.2.2 (2023-02-02)
 ## Feature
 * Improved in-app push notification behaviors and sounds
