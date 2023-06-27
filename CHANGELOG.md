@@ -1,3 +1,8 @@
+# 10.3.1 (2023-06-27)
+## Fix
+* Fixed kakao korean encoding issue
+* Fixed suppot bot button trailing issue
+
 # 10.3.0 (2023-04-07)
 ## Feature
 * Fixed function name from `applyAppearance` to `seAppearance`
