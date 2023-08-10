@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ChannelIOSDK",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v12),
         ],
     products: [
         .library(
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChannelIOFront",
-            url: "https://mobile-static.channel.io/ios/10.3.1/spm-xcframework.zip",
-            checksum: "86e8405e206d3c404c4dd4db2a29bda526d363be52f0a68814d6bb1b76a30a13"
+            url: "https://mobile-static.channel.io/ios/11.0.0/spm-xcframework.zip",
+            checksum: "21399f157701aded38e17eea6dbe0a28da49f260cc595f6e13e3293111218bcb"
         ),
         // NOTE: targets 안에 binaryTarget 하나만 존재할 경우 SPM Framework 추가 목록에 노출되지 않는 버그가 있어
         // 이를 방지하기 위한 Stub target을 추가합니다 - finn. 2023.02.23
