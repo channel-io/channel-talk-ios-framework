@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChannelIOFront",
-            url: "https://mobile-static.channel.io/ios/11.2.0/spm-xcframework.zip",
-            checksum: "59ba2c1c316be52b13d72dd2d53ec33070e58e1acd76b7e944687fbe4d4a8e73"
+            url: "https://mobile-static.channel.io/ios/11.3.0/spm-xcframework.zip",
+            checksum: "c276b1e2029187c4590511190d80d8112b51e5cd77dfe1f27b61aa6b6843ee06"
         ),
         // NOTE: targets 안에 binaryTarget 하나만 존재할 경우 SPM Framework 추가 목록에 노출되지 않는 버그가 있어
         // 이를 방지하기 위한 Stub target을 추가합니다 - finn. 2023.02.23
