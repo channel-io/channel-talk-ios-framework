@@ -1,12 +1,5 @@
 name: Create Release
 
-# channel-plugin-ios의 릴리스 워크플로가 SSH로 태그를 push하면 이 워크플로가 트리거되어
-# 해당 태그의 GitHub Release를 생성한다.
-#
-# 배경: 배포 측(channel-plugin-ios)은 SSH 키로 인증하는데, SSH는 git 전용이라
-# REST API로 Release를 만들 수 없다. 그래서 Release 생성은 이 저장소가 자신의
-# GITHUB_TOKEN으로 직접 수행한다. 추가 시크릿이 필요하지 않다.
-
 on:
   push:
     tags: ['*']
